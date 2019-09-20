@@ -2,7 +2,7 @@ package leetcode.queue;
 
 public class FloodFill {
 
-    private
+//    private
 
     public void DFS(int[][] image, int x, int y) {
 
